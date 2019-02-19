@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeLembretes", "SistemaDeLembretes\SistemaDeLembretes.csproj", "{376E66ED-664C-4579-8EAC-0D177A8C752E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376E66ED-664C-4579-8EAC-0D177A8C752E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376E66ED-664C-4579-8EAC-0D177A8C752E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376E66ED-664C-4579-8EAC-0D177A8C752E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376E66ED-664C-4579-8EAC-0D177A8C752E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A33FDB6-D6C6-430D-80D7-4EC1575D2E24}
+	EndGlobalSection
+EndGlobal
